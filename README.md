@@ -9,9 +9,9 @@ Welcome to the Astraeus-I repository. This project encompasses the intricate des
 For any additional details or clarifications, please explore the respective folders.
 
 ### Schematic (SVG)
-![Astraeus I Schematic Updated](./images/Astraeus%20I%20Schem%20Updated_2023-09-04.svg)
+![Astraeus-I Schematic Updated](./images/Schematic_Astraeus_I_2023-10-23.svg)
 
-### Board Layout (PNG)
-![PCB_PCB_Astraeus-1 Prototype](./images/PCB_PCB_Astraeus-1%20Prototype%201_2023-09-04.svg)
+### Board Pinout (SVG)
+![Astraeus-I Board Version 3](./images/Astraeus_Pinout.svg)
 
 For the organization and firmware related to Astraeus-I, please visit [this link](https://github.com/Astraeus-I).
