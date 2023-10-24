@@ -6,12 +6,15 @@ Welcome to the Astraeus-I repository. This project encompasses the intricate des
 - [**schem**](./schem): This folder contains the schematic files detailing the electronic circuit diagram of Astraeus-I.
 - [**board**](./board): Here you'll find the PCB (Printed Circuit Board) layout files for the physical component arrangements of Astraeus-I.
 
-For any additional details or clarifications, please explore the respective folders.
-
 ### Schematic (SVG)
-![Astraeus-I Schematic Updated](./images/Schematic_Astraeus_I_2023-10-23.svg)
+![Astraeus-I Schematic Updated](./images/Astraeus_Schematic.svg)
 
 ### Board Pinout (SVG)
-![Astraeus-I Board Version 3](./images/Astraeus_Pinout.svg)
+<div style="margin-top:-100px;">
+    <img src="./images/Astraeus_Pinout.svg" alt="Astraeus-I Board Version 3">
+</div>
 
-For the organization and firmware related to Astraeus-I, please visit [this link](https://github.com/Astraeus-I).
+<div style="margin-top:-80px;">
+    <p>For any additional details or clarifications, please explore the respective folders.</p>
+    <p>For the organization and firmware related to Astraeus-I, please visit <a href="https://github.com/Astraeus-I">this link</a>.</p>
+</div>
