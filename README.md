@@ -7,11 +7,11 @@ Welcome to the Astraeus-I repository. This project encompasses the intricate des
 - [**board**](./board): Here you'll find the PCB (Printed Circuit Board) layout files for the physical component arrangements of Astraeus-I.
 
 ### Schematic (SVG)
-![Astraeus-I Schematic Updated](./images/Astraeus_Schematic.svg)
+![Astraeus-I Schematic Updated](./schem/Astraeus_Schematic_V3.svg)
 
 ### Board Pinout (SVG)
 <div style="margin-top:-100px;">
-    <img src="./images/Astraeus_Pinout.svg" alt="Astraeus-I Board Version 3">
+    <img src="./board/Astraeus_Pinout.svg" alt="Astraeus-I Board Version 3">
 </div>
 
 <div style="margin-top:-80px;">
